@@ -372,8 +372,7 @@ git add .
 git commit -m "feat: complete Expense Tracker MCP Server with tools, resource, prompt and tests"
 
 # 4. Link your remote GitHub repository
-# Replace with your actual GitHub repository URL
-git remote add origin https://github.com/<your-username>/expense-tracker-mcp.git
+git remote add origin https://github.com/Purushoth997/expense-tracker-mcp.git
 
 # 5. Push to GitHub
 git branch -M main
